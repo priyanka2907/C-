@@ -15,4 +15,5 @@ int main()
 	// call struct value by pointer
 	printf("\n %s from %s ",pt->ename,(*pt).address);
 	return 0;
+	
 }
