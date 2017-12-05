@@ -25,4 +25,5 @@ Calculate_Fact(int n, int *f)
 		*f=*f * i; //assign each for loop i value to ponter
 	}
 	
+	
 }
