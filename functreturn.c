@@ -30,4 +30,5 @@ int* FindGrater(int *no1,int *no2)
 	return no2;// return no2
 	
 	
+	
 }
