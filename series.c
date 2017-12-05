@@ -25,3 +25,4 @@ int fact(int n)
 	}
 	return f;// return result
 }
+
