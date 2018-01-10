@@ -34,7 +34,7 @@ int main()
 		printf("0"); // if even print 0
 		else
 		printf("1");// else 1
-			
+		
 			
 		}
 		
