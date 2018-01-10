@@ -19,8 +19,7 @@ int main()
 	int i,j,k;
 	
 	for(i=0 ; i<=4 ; i++)// for row
-	{
-		
+	{	
 		// for loop for space
 		
 		for(j=4 ; j > i ; j--)
